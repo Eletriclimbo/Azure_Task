@@ -1,0 +1,1 @@
+﻿New-AzureRmResourceGroupDeployment -Name Deploy10 -ResourceGroupName SecondGroup -TemplateParameterFile D:\Templates\ARM_Template_Properties_1.json -TemplateFile D:\Templates\ARM_Template_1.json
